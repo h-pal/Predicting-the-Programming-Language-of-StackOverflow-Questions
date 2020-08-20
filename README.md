@@ -1,6 +1,6 @@
-# Auto-tagging-of-StackOverflow-Questions
+# Predicting-the-Programming-Language-of-SatckOverflow-Questions-using-Natural-Language-Processing
 
-Auto-tagging of StackOverflow questions is a process of predicting programming language of a question. I used a LSTM baesd Deep learning model to predict the 16 most popular programming languages of 2019. I considered the title and body of a questions to make prediction. I used a three layer LSTM network as LSTMs are so effective for sequential dataset and are widely preferred in NLP domain.
+I used a LSTM baesd Deep learning model to predict the 16 most popular programming languages of 2019. I considered the title and body of a questions to make prediction. I used a three layer LSTM network as LSTMs are so effective for sequential dataset and are widely preferred in NLP domain.
 
 ## Data
 
