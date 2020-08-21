@@ -1,6 +1,6 @@
 # Predicting-the-Programming-Language-of-SatckOverflow-Questions-using-Natural-Language-Processing
 
-I used a LSTM baesd Deep learning model to predict the 16 most popular programming languages of 2019. I considered the title and body of a questions to make prediction. I used a three layer LSTM network as LSTMs are so effective for sequential dataset and are widely preferred in NLP domain.
+I used a LSTM based Deep learning model to predict the 16 most popular programming languages of 2019. I considered the title and body of a question to make prediction. I used a three-layer LSTM network as LSTMs is so effective for the sequential dataset and are widely preferred in NLP domain.
 
 ## Data
 
