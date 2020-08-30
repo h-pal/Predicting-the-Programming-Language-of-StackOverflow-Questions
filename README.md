@@ -27,7 +27,7 @@ Re 2.2.1
 When testing on an unseen test set, I achieved an accuracy of 82.34% on this task.
 
 ## Confusion Matrix
-![](Confusion_Matrix.jpg)
+![](Confusion_Matrix.png)
 
 ## References
 
